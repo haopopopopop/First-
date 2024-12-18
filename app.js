@@ -2,13 +2,13 @@
 
 
     var firebaseConfig = {
-    apiKey: "API KEY",
-    authDomain: "AUTH DOMAIN",
-    databaseURL: "DATABSE URL",
-    projectId: "PROJECT ID",
-    storageBucket: "BUCKET URL",
-    messagingSenderId: "SENDER ID",
-    appId: "APP ID"
+    apiKey: "AIzaSyAWAiBu1NDXYyCdMYWAg_AyrPqOtCWRYEM",
+    authDomain: "insta-4190e.firebaseapp.com",
+    databaseURL: "https://console.firebase.google.com/u/0/project/insta-4190e/database/insta-4190e-default-rtdb/data/~2F",
+    projectId: "insta-4190e",
+    storageBucket: "insta-4190e.firebasestorage.app",
+    messagingSenderId: "990770815040",
+    appId: "1:990770815040:android:33f2d14b96d17e9a12bfa5"
   }; 
  
 ////Do Not Edit Below This
